@@ -1,1 +1,1 @@
-# PankovOleg
+Портфолио Олега. Статика: index.html + style.css. Hero video: assets/intro.webm. Исходные визуальные ассеты взяты из предоставленного архива «Сайт 2.zip».
